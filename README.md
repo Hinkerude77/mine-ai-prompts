@@ -1,0 +1,2 @@
+# mine-ai-prompts
+test
