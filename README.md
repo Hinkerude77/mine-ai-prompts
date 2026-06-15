@@ -1,5 +1,5 @@
 # mine-ai-prompts
-test
+
 # Mine AI-prompts
 
 Dette repository samler mine bedste prompts til ChatGPT, Claude og andre AI-værktøjer.
