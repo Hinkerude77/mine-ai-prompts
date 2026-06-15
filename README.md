@@ -1,4 +1,4 @@
-# mine-ai-prompts
+# Mine AI-prompts
 
 # Mine AI-prompts
 
